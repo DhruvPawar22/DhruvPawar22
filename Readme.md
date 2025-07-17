@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Welcome to My GitHub!<br><br>I'm an aspiring Software Engineer and final-year graduate, passionate about backend development and security.<br>I love building robust systems, exploring new technologies, and collaborating on innovative projects. <br>I’m always learning and eager to tackle new challenges.<br><br>Check out my projects below!
 
 
